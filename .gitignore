@@ -1,0 +1,26 @@
+# Dossiers générés
+build/
+dist/
+out/
+target/
+
+# Fichiers IDE
+*.class
+*.log
+*.properties
+*.iml
+*.war
+*.ear
+*.zip
+*.rar
+
+# NetBeans
+nbproject/private/
+nbbuild/
+nbdist/
+build/
+dist/
+
+# OS
+.DS_Store
+Thumbs.db
